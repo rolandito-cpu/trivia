@@ -11,8 +11,10 @@ const maximo_preguntas_por_jugada = 10;
 const puntos_resultado_bien = 6;
 
 
-
 let mensaje;
+
+
+
 function mostrarResultado(){
 	document.querySelector('#pantalla-juego').classList.add('d-none');
 	document.querySelector('#pantalla-resultado').classList.remove('bien');
