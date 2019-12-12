@@ -122,6 +122,7 @@ function iniciarJuego()
 	
 	indice_pregunta_actual = 0;
 	total_puntos = 0;
+	desordenarArray(preguntas);
 
 	mostrarPregunta(preguntas[indice_pregunta_actual]);
 }

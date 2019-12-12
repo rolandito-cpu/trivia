@@ -105,147 +105,104 @@ let preguntas = [
     respuesta_correcta: 'Es la eliminación del bosque para convertirlo a un uso no forestal.'
   },
   {
-   texto_pregunta:'¿Quién es el responsable civil por un accidente de tránsito producido por un menor de edad poseedor de una licencia de conductor?',
+   texto_pregunta:'¿Cuales son los beneficios de reciclar?',
     opciones:[
-      'El que lo acompaña.',
-      'El que firmó la autorización para obtener la licencia.',
-      'El que le autorizó el uso del vehículo.'
+      'Menos contaminación.',
+      'Reduce el estrés.',
+      'Nada, es todo publicidad'
     ],
-    imagen_src:'img/preguntas/img_generica.png',
-    respuesta_correcta: 'El que firmó la autorización para obtener la licencia.'
+    imagen_src:'img/preguntas/importancia-y-beneficios-del-reciclaje.jpg',
+    respuesta_correcta: 'Menos contaminación.'
   },
   {
-   texto_pregunta:'El que conduce un vehículo ¿qué documentación personal debe llevar consigo?',
+   texto_pregunta:'El plastico tarda alrededor de:',
     opciones:[
-      'La licencia de conductor es suficiente.',
-      'La licencia de conductor y su documento de identidad.',
-      'La licencia de conductor, su documento de identidad y la cédula verde.'
+      '1 semana.',
+      '700 años en degradarse.',
+      '2 dias'
     ],
-    imagen_src:'img/preguntas/img_generica.png',
-    respuesta_correcta: 'La licencia de conductor y su documento de identidad.'
+    imagen_src:'img/preguntas/41991921-asustado-botella-de-plástico-de-dibujos-animados-de-vectores.jpg',
+    respuesta_correcta: '700 años en degradarse.'
   },
   {
-   texto_pregunta:'¿Está permitido estacionar moto vehículos sobre la vereda?',
+   texto_pregunta:'El calentamiento global afecta a:',
     opciones:[
-      'Sólo si la vereda es ancha.',
-      'Únicamente en días feriados.',
-      'No, no está permitido.'
+      'Todos los seres vivos.',
+      'Solo a las lagartijas.',
+      'A todos los invertebrados.'
     ],
-    imagen_src:'img/preguntas/img_generica.png',
-    respuesta_correcta: 'No, no está permitido.'
+    imagen_src:'img/preguntas/75459224-para-el-calentamiento-global-carácter-del-planeta-tierra-ilustración-.jpg',
+    respuesta_correcta: 'Todos los seres vivos.'
   },
   {
-   texto_pregunta:'¿Qué tipo de casco deben utilizar obligatoriamente todas las personas que circulan en motocicletas o vehículos similares?',
+   texto_pregunta:'El mayor causante del calentamiento global son: ',
     opciones:[
-      'Opción A',
-      'Opción B',
-      'Opción C'
+      'El humo del cigarrillo',
+      'Los gases de efecto invernadero',
+      'Una mala alimentacion'
     ],
-    imagen_src:'img/preguntas/img_preg_14.png',
-    respuesta_correcta: 'Opción C'
+    imagen_src:'img/preguntas/1366_2000.jpg',
+    respuesta_correcta: 'Los gases de efecto invernadero'
   },
   {
-   texto_pregunta:'¿Qué debe hacer si observa que un vehículo está a punto de alcanzarlo y pasarlo?',
+   texto_pregunta:'Tipos de energías renovables:',
     opciones:[
-      'Ceñirse bien a la derecha, y si es necesario, bajar la velocidad.',
-      'Aumentar la velocidad.',
-      'Es indiferente la velocidad de su vehículo.'
+      'Hidroelectrica',
+      'Plantas de radioactividad',
+      'Nuclear.'
     ],
-    imagen_src:'img/preguntas/img_generica.png',
-    respuesta_correcta: 'Ceñirse bien a la derecha, y si es necesario, bajar la velocidad.'
+    imagen_src:'img/preguntas/depositphotos_94990100-stock-illustration-hydroelectric-power-station-cartoon-icon.jpg',
+    respuesta_correcta: 'Hidroelectrica'
   },
   {
-   texto_pregunta:'Si el conductor de un vehículo circula con las balizas encendidas, toca repetidamente la bocina y el acompañante saca el brazo agitando un pañuelo. ¿Qué están indicando?',
+   texto_pregunta:'Las energias renovables ayudan a combatir el crimen',
     opciones:[
-      'Que el vehículo tiene un desperfecto.',
-      'Que transportan a una persona grave a un hospital.',
-      'Al exceso de velocidad y a la violación de luz roja.'
+      'Verdadero',
+      'Falso'
     ],
-    imagen_src:'img/preguntas/img_generica.png',
-    respuesta_correcta: 'Que transportan a una persona grave a un hospital.'
+    imagen_src:'img/preguntas/70027525-ladrón-con-una-pistola-ladrón-de-dibujos-animados-divertidos-en-máscara-negra-robar-un-bolso-concepto-de-fra.jpg',
+    respuesta_correcta: 'Falso'
   },
   {
-   texto_pregunta:'¿Cuál es el nivel máximo de alcoholemia admitido para conducir un automóvil particular?',
+   texto_pregunta:'Hay que cuidar a los animales en peligro de extincion por que:',
     opciones:[
-      '0,8 gr. por litro de sangre.',
-      '0,5 gr. por litro de sangre.',
-      '1,5 gr. por litro de sangre.'
+      'Son lindos.',
+      'Son partes importantes de un cadena trofica.',
+      'Ayudan a cuidar la piel.'
     ],
-    imagen_src:'img/preguntas/img_generica.png',
-    respuesta_correcta: '0,5 gr. por litro de sangre.'
+    imagen_src:'img/preguntas/cadenas-troficas-e1553098486793.jpg',
+    respuesta_correcta: 'Son partes importantes de un cadena trofica.'
   },
   {
-   texto_pregunta:'Ud. está llegando a un cruce de calles sin semáforos ni policía, una persona está cruzando por la senda peatonal, Ud. debe:',
+   texto_pregunta:'Los zoológicos modernos: ',
     opciones:[
-      'Disminuir la marcha y tener cuidado.',
-      'Parar y cederle el paso al peatón.',
-      'Seguir y atravesar el cruce, porque tiene prioridad.'
+      'Usan a los animales como un circo',
+      'Deben cerrar',
+      'Ayudan en la lucha contra la extincion de los animales.'
     ],
-    imagen_src:'img/preguntas/img_generica.png',
-    respuesta_correcta: 'Parar y cederle el paso al peatón.'
+    imagen_src:'img/preguntas/zoologico-de-dibujos-animados-y-ninos-ilustracion-de-la-bandera-400-2084710.jpg',
+    respuesta_correcta: 'Ayudan en la lucha contra la extincion de los animales.'
   },
   {
-   texto_pregunta:'¿Qué deben hacer los conductores para facilitar el paso a un coche de bomberos en servicio de emergencia?',
+   texto_pregunta:'El amazonas es:',
     opciones:[
-      'Aumentar la velocidad para no ser un obstáculo.',
-      'Avisar a otros conductores usando repetidamente la bocina.',
-      'Apartarse normalmente a la derecha y, si es necesario, detenerse.'
+      'Uno de los principales pulmones del mundo.',
+      'Un simple atractivo turistico.',
+      'Una localidad de buenos aires.'
     ],
-    imagen_src:'img/preguntas/img_generica.png',
-    respuesta_correcta: 'Apartarse normalmente a la derecha y, si es necesario, detenerse.'
+    imagen_src:'img/preguntas/depositphotos_109486798-stock-photo-green-anaconda-in-the-amazon.jpg',
+    respuesta_correcta: 'Uno de los principales pulmones del mundo.'
   },
   {
-   texto_pregunta:'¿Cuál es la velocidad máxima permitida en autopistas, en el ámbito de la Ciudad Autónoma de Buenos Aires?',
+   texto_pregunta:'La deforestacion por minería afecta mayormente a: ',
     opciones:[
-      '70 km/h.',
-      '100 km/h.',
-      '120 km/h.'
+      'La degradacion de los suelos y las poblaciones, que se ven afectadas por la contaminación de los recursos',
+      'Las empresas capitalistas',
+      'Todas las anteriores.'
     ],
-    imagen_src:'img/preguntas/img_generica.png',
-    respuesta_correcta: '100 km/h.'
-  },
-  {
-   texto_pregunta:'¿Según se muestra en la fotografía, donde se debe parar?',
-    opciones:[
-      'El lugar de detención no tiene importancia. Pero hay que parar antes de entrar al cruce.',
-      'Antes de la columna en la cual se encuentra la señal de tránsito.',
-      'Antes y cerca de la línea de detención.'
-    ],
-    imagen_src:'img/preguntas/img_preg_21.png',
-    respuesta_correcta: 'Antes y cerca de la línea de detención.'
-  }
-  ,
-  {
-   texto_pregunta:'¿Cómo se conducirá al acercarse a un cruce donde hay un semáforo donde titila el amarillo?',
-    opciones:[
-      'Acelere la velocidad antes que cambie la luz a roja en el semáforo.',
-      'Reducir la velocidad y dar prioridad de paso al vehículo que viene sólo por la izquierda.',
-      'Reducir la velocidad e incluso parar si es necesario - según el tráfico a su alrededor.'
-    ],
-    imagen_src:'img/preguntas/img_preg_22.png',
-    respuesta_correcta: 'Reducir la velocidad e incluso parar si es necesario - según el tráfico a su alrededor.'
-  }
-  ,
-  {
-   texto_pregunta:'¿Qué vehículo está girando correctamente en la rotonda?',
-    opciones:[
-      'El rojo.',
-      'El celeste.',
-      'El Amarillo.'
-    ],
-    imagen_src:'img/preguntas/img_preg_23.png',
-    respuesta_correcta: 'El celeste.'
-  }
-  ,
-  {
-   texto_pregunta:'Como norma de carácter general, ¿quién tiene prioridad de paso en una encrucijada o bocacalle?',
-    opciones:[
-      'Los vehículos que viene por el lado izquierdo.',
-      'El vehículo que va a girar.',
-      'El vehículo que se presenta por el lado derecho.'
-    ],
-    imagen_src:'img/preguntas/img_preg_24.png',
-    respuesta_correcta: 'El vehículo que se presenta por el lado derecho.'
+    imagen_src:'img/preguntas/contaminación-del-suelo-4.jpg',
+    respuesta_correcta: 'La degradacion de los suelos y las poblaciones, que se ven afectadas por la contaminación de los recursos'
+
   }
 
 ];

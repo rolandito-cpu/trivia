@@ -26,7 +26,7 @@ function randomN (n) {
 
 // Desordena un array
 function desordenarArray (preguntas) {
-  let longitud = array.length;
+  let longitud = preguntas.length;
 
   // Recorre el array
   for (let i=0; i < longitud; i++)
@@ -34,8 +34,8 @@ function desordenarArray (preguntas) {
     // Intercambia de lugar el valor del elemento acutal
     //...con el valor de otro elemento aleatorio
     let rand = randomN(longitud);
-    let temp = array[i];
-    array[i] = array[rand];
-    array[rand] = temp;
+    let temp = preguntas[i];
+    preguntas[i] = preguntas[rand];
+    preguntas[rand] = temp;
   }
 }
